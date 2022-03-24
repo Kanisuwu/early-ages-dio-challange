@@ -1,2 +1,2 @@
-# early-ages-dio-challange
-Challange about Git/Github
+# Project for Git/Github
+### Just for testing and learning.
