@@ -1,0 +1,5 @@
+	- Conflitos podem ocorrer, abaixo fica anotações de como resolvê-los:
+	* Caso algum usuário empurre a aplicação para o git, você pode se sincronizar puxando ela.
+	* Caso vocês tenham mexido no mesmo arquivo, ele será feito a "merge".
+	* A merge nem sempre funcionará e terá que ser feito manualmente, geralmente acontece quando se edita a mesma linha de um mesmo código.
+	* Comando: git pull origin main = Para puxar o repositório/tree/arquivo que você desejar.

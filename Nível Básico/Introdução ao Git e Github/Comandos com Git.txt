@@ -8,6 +8,7 @@
 	- config --global user.name [github:name] =  adiciona o seu nome do github para autenticação.
 	- config --list = Vai apresentar uma lista da configuração de seu git.
 	- remote add origin [link "for push an existing repository from command line"]
-	- add *
+	- add * = Adiciona tudo ao stage.
 	- commit -m "[Notas]"
 	- push origin main = empurra para a nuvem seu repositório.
+	- pull origin main = Puxa o repositório da nuvem.
