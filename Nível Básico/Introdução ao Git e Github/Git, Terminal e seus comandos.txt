@@ -27,4 +27,5 @@ Silence on success (É comum os terminais retornarem nada em um sucesso)
 	- echo > = Redirecionador de fluxo para executar um comando e printá-lo no arquivo (Win/Unix)
 	- rmdir /S /Q = Forma simplificada
 	- rm -rf = r(Recursivo, apaga todas as pastas contidas dentro do alvo.) f(Force, sem pedir permissões) 
+ 	- ls -a = Para ver arquivos ocultos
 

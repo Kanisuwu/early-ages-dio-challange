@@ -5,3 +5,9 @@
 	* cat chave.pub = Irá revelar a chave pública para ti. Essa será a mesma colada no GitHub.
 	* evail $(ssh-agent -s) = Cria o agente responsável por gerenciar nossa chave
 	* ssh-add id_ed25519 = Adiciona a chave para o agente entender que sempre que uma mensagem vier com ela ele a utilizará.
+
+	- Criação de uma Token
+	* Vá para developer settings > Personal access token
+	* Crie o seu token escolhendo data de expiração e marcanda a caixa: repo
+	* Copie o link HTTPs de seu repositório.
+	* Ele irá pedir no browser seu Token.

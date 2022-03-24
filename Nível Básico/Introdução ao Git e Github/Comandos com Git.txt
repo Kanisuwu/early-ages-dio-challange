@@ -1,0 +1,9 @@
+
+	**COMANDOS BÁSICOS DO GIT NO GITBASH**
+
+	- init = Inicializa um repositório git vazio na pasta atual.
+	- config --global user.email [email] = Adiciona o email para autenticação
+	- config --global user.name [github:name] =  adiciona o seu nome do github para autenticação.
+	- add *
+	- commit -m "[Notas]"
+	- push origin main = empurra para a nuvem seu repositório.
