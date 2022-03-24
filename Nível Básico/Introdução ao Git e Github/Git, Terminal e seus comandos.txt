@@ -1,0 +1,30 @@
+Git usa CLI (Command Line Interface) diferente de algumas outras aplicações que usam GUI (Graphical User Interface). Vale
+ressaltar que existem outros tipos e sinônimos como para o CLI que pode ser chamado de terminal.
+
+	- Comandos do Windows / Unix:
+	- cd		- cd
+	- dir		- ls
+	- mkdir		- mkdir
+	- del/rmdir	- rm -rf
+
+Terminal do Windows é derivado do Shell, assim como do Unix é do Bash.
+Alguns comandos tem FLAGS (OPTIONS/OPÇÕES) que mudam parcialmente ou totalmente a forma que eles funcionam.
+Silence on success (É comum os terminais retornarem nada em um sucesso)
+
+	- cd .. = Volta uma pasta atrás. 	(Win/Unix)
+	- [TAB] = Autocompleta palavras. 	(Win/Unix)
+	- mkdir = Cria um diretório. 		(Win/Unix)
+	- echo = Printa na tela 		(Win/Unix)
+	- dir = Demonstra arquivos 		(Win)
+	- cls   = Clear Screen. 		(Win)
+	- del = Remove >arquivo(s)< 		(Win)
+	- rmdir = Remove >diretório(s)<		(Win)
+	- ls = Demonstra arquivos.		(Unix)
+	- clear = Limpa a tela (CTRL+L) 	(Unix)
+
+	FLAGS
+
+	- echo > = Redirecionador de fluxo para executar um comando e printá-lo no arquivo (Win/Unix)
+	- rmdir /S /Q = Forma simplificada
+	- rm -rf = r(Recursivo, apaga todas as pastas contidas dentro do alvo.) f(Force, sem pedir permissões) 
+

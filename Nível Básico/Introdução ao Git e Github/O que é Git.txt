@@ -1,0 +1,12 @@
+Foi criado por Linus Torvalds, o mesmo participante da criação do Linux. Já existia sistemas de versionamento de código
+porém Linus criou Git por seu descontentamento dos programas da época.
+
+Git e Github são tecnologias complementares, não iguais.
+	Seus benefícios são:
+	- Controle de Versão
+	- Armazenamento na Núvem
+	- Trabalho em equipe
+	- Melhorar seu código
+	- Seu reconhecimento
+
+

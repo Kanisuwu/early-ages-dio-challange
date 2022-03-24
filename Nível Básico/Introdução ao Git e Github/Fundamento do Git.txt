@@ -1,0 +1,17 @@
+	- SHA1: Algorítmo do encriptação. Secure Hash Algorithm. É um conjunto de funções hash criptográficas projetadas pelas NSA.
+	A encriptação gera conjunto de identificador de 40 dígitos.
+	openssl sha1 [arquivo]: para a criação de um hash SHA1
+
+	- OBJETOS INTERNOS DO GIT: De uma maneira básica
+	* BLOPS
+	* TREES
+	* COMMITS
+
+	- Blop contém metadados do Git, como o tipo, tamanho do arquivo e o \o.
+	- Trees armázena e aponta para Blops diferentes. Ela também contém metadados. Uma árvore pode apontar para uma outra árvore
+	assim como um diretório pode conter outro diretório. Elas também contém SHA1 e se mudar o sha de um único arquivo, muda toda a encriptação do(s) objeto(s).
+	- Commit é a parte mais importante, ele é o que vai juntar tudo e irá dar sentido para o que você está fazendo.
+	Ele aponta para uma árvore, para um parente, autor e uma mensagem. Contém um timestamp (Uma espécie de carimbo da data que foi criado).
+	Também possuem SHA1, que detém um hash de toda a informação.
+
+	Por isso ele é um sistema completamente seguro.

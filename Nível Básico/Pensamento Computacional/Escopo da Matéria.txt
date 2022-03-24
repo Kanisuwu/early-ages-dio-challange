@@ -1,0 +1,17 @@
+Pensamento computacional é usado para uma melhor resolução de problemas, especificamente dentro da programação.
+É um pensamento sistemático em que possa se utilizar em todos os setores, por isso é chamada de uma matéria generalista,
+predominante nas ciências exatas. Mas isso não significa que não exista nas demais.
+
+Os quatro pilares do pensamento computacional: Decomposição > Reconhecimento de Padrões >
+Abstração e por fim Design de Algorítimos.
+
+Decomposição [1]: "Dado um problema complexo, devemos quebra-lo em problemas menores. Portanto problemas mais fáceis e gerenciáveis."
+Reconhecimento de Padrões [2]: "Procura de uma repetição, modelo base, ou alguma estrutura invariante."
+Abstração [3]: "Abstrair: Observar um ou mais elementos, avaliando e separando suas características.
+		Abstração: Isolamento de um objeto da dependência da realidade.
+		Generalizar: Tornar-se geral, mais amplo, extensão."
+Algoritmos [4]: "Processamento de dados, e criação de instruções para a CPU executar. As instruções
+devem ser entendidas por um humano e por uma máquina. Uso de três linguagens distintas para a criação desta ou mais instruções:
+- Narrativa: Simples, sem novos conceitos e de diversas interpretações.
+- Fluxograma:Simples entendimento, Utilização de símbolos pré-definidos e conhecimento prévio da estrutura e símbolos.
+- Pseudocódigo: Regras definidas, PORTUGOL."
