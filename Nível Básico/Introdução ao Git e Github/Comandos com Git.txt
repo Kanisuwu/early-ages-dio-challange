@@ -3,7 +3,11 @@
 
 	- init = Inicializa um repositório git vazio na pasta atual.
 	- config --global user.email [email] = Adiciona o email para autenticação
+	- config --global --unset user.email = Remove o email para auth
+	- config --global --unset user.name = Remove o usuário para auth
 	- config --global user.name [github:name] =  adiciona o seu nome do github para autenticação.
+	- config --list = Vai apresentar uma lista da configuração de seu git.
+	- remote add origin [link "for push an existing repository from command line"]
 	- add *
 	- commit -m "[Notas]"
 	- push origin main = empurra para a nuvem seu repositório.
