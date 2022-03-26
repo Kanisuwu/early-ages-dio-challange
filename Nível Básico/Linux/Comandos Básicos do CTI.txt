@@ -1,0 +1,27 @@
+	Aqui listaremos alguns comandos básicos do Linux(bash$)
+
+	- ls: List File, lista todos os arquivos e diretórios.
+		>FLAGS: -l: Listar com Detalhes. / -a: Listar ocultos.
+	- pwd: Exibe seu diretório atual.
+	- cd: Navega pelos arquivos.
+	- mkdir: Cria um diretório.
+	- rmdir/rm -r: Remove diretório
+	- mv: Move um diretório/arquivo.
+		> mv [original] [novo]: Renomeia o diretório/arquivo
+		> FLAG: ~: Diretório Home
+	- cp: copia um arquivo
+	- touch: Cria um arquivo.
+	- clear / ^L: Limpa o terminal
+	- history: Lista todos os comandos usados
+
+	ATALHOS:
+
+	^C = Cancela o comando atual.
+	^Z = Pausa o comando atual.
+	^D = Faz logout.
+	^W = Apaga uma palavra na linha atual.
+	^U = Apaga a linha inteira.
+	^R = Busca um cmd recente.
+	!! = Repete o último cmd.
+	exit = Sai do CLI.
+	
