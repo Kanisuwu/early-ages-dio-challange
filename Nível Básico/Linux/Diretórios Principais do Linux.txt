@@ -1,0 +1,17 @@
+	PRINCIPAIS DIRETÓRIOS DO LINUX:
+	
+	/bin/ = Binários principais dos usuário
+	/boot/ = Arquivos de sistema de Boot
+	/dev/ = Arquivos de dispositivos
+	/etc/ = Arquivos de configuração de sistema
+	/home/ = Diretório dos usuários comuns do sistema
+	/lib/ = Bibliotecas essenciais do sistema e os módulos do kernel
+	/media/ = Diretório de montagem de dispositivos
+	/mnt/ = Diretório de montagem de dispositivos - mesmo que mídia
+	/opt/ = Instalação de programas não oficiais da distribuição ou por conta do usr
+	/sbin/ = Armazena arquivos executáveis que representam comandos administrativos. Ex: shutdown
+	/srv/ = Diretório de dados de serviços fornecidos pelo sistema
+	/usr/ = Segunda hierarquia do sistema, onde ficam os usuários comuns do sistema e programaas
+	/var/ = Diretório com arquivos variáveis gerados pelos programas do sistema. Ex: Impressoras, email, cache
+	/root/ = Diretório do usuário root. O usuário root tem total poder sobre o sistema.
+	/proc/ = Diretório virtual controlado pelo Kernel
