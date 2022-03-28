@@ -1,0 +1,26 @@
+	PROTOCOLOS DE REDE:
+
+	Protocolos: É uma linguagem usada pelos dispositivos de uma rde de modo que eles consigam se comunicar.
+
+	IP = Internet Protocol - Endereço IP.
+
+	ICMP = Intetnet Control Message Protocol - Tem por objetivo prover mensagens de controle na comunicação entre nós
+
+	DNS = Domain Name Server - Esse protocolo de aplicação tem por função identificar endereços e manter uma tabela com eles.
+
+	COMANDOS:
+
+	sudo apt install net-tools: necessário.
+
+	- ifconfig: mostra as conexões ip
+	- hostname: Nome do host
+		> -I: ipv4
+		> -i> ip loopback
+	- who: Como estamos logados nesta rede
+	- whoami: Nome do usuário na rede
+	- ping: Faz parte do Protocolo ICMP, verificando se o alvo está respondendo.
+	- traceroute: Mostra a rota para chegar até o alvo
+	- dig: Nos dá informação sobre o alvo
+	- whois: Nos trás informações completa do domínio
+	- finger: Usuário logado no computador atual
+	- w: Exibe informações sobre o usuário da rede
