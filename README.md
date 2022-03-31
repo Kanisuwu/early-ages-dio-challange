@@ -4,4 +4,5 @@ This will be like a time machine to regret what I've done. Kidding. It's to see 
 
 ### Links for me in the future:
 [Markdown Basics](https://www.markdownguide.org/basic-syntax/)
+[Arch-Linux wiki](https://wiki.archlinux.org/)
 
