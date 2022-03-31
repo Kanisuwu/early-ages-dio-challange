@@ -28,6 +28,32 @@
 		> -name: pelo nome
 	- whatis: O que faz determinado comando
 	- lspci: Placas conectadas ao PC
+	- nl: dá cat com as linhas numeradas
+	- wc: mostra linhas, palavras e bytes
+		>l: conta só até a última linha
+		>w: words.
+		>c: bytes
+		>m: caracteres
+	- diff: Vê a diferença entre arquivos
+	- cmp: compara arquivos
+	- sort: Organiza o arquivo txt
+	- init 0: shutdown
+	- telinit 0: shutdown
+	- halt: auth para desligar a máquina
+	- seq: imprime uma sequência de números
+	- ls -F: com / no final
+	- uptime: vê o tempo de atividade
+	- whereis: mostra o lugar do programa e seu executador
+	- which: lugar do programa
+	- psswd: muda a senha
+	- su: muda de usuário
+	- adduser: adiciona usuário
+	- lastlog: exibe info de login
+	- last: entrada e saída do usuário do sistema
+	- logname: mostra o usuário logado atualmente
+	- id: id do usuário
+	- cat /etc/passwd: exibe todos os usuários
+	-
 
 	ATALHOS:
 
@@ -39,4 +65,25 @@
 	^R = Busca um cmd recente.
 	!! = Repete o último cmd.
 	exit = Sai do CLI.
+
+	PACKETS
+
+	sudo apt install [packt]
+	sudo apt upgrade [packt]
+	sudo apt remove [packt]
+	sudo apt update && apt upgrade
+
+	sudo dpkg -i
+	sudo dpkg -l [packet.deb]: descreve um pacote
+	sudo dpkg -r [packet.deb]
+
+	--- FEDORA
+
+	sudo rpm -ivh --nodeps [packet.rpm]
+	sudo rpm -U [packet.rpm]
+	sudo rpm -e [packet.rpm]
+	sudo yum install [packet]
+	sudo yum update [packet]
+	sudo yum remove [packet]
+	
 	
